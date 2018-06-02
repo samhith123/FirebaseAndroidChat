@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1070531146231",
+    "firebase_url": "https://intern-work-98303.firebaseio.com",
+    "project_id": "intern-work-98303",
+    "storage_bucket": "intern-work-98303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070531146231:android:ace108b1c6c1ad2f",
+        "android_client_info": {
+          "package_name": "intern.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070531146231-7ksgn5l22gr327jqjt10s1c6khmbqe7s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1070531146231-7ksgn5l22gr327jqjt10s1c6khmbqe7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2U0bFP_UFWwVPTqn4wcqB7j76MoHaooE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
