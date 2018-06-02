@@ -46,7 +46,6 @@
 
     </me.himanshusoni.chatmessageview.ChatMessageView>
 
-
     <TextView
         android:text="22/06/2016"
         android:id="@+id/timestamp"
